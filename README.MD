@@ -51,4 +51,4 @@ Criar e Gerenciar Ordens de Compra
 
 Integrar com Fornecedores
 •Receber atualizações automáticas dos prazos de entrega de novas remessas.
-•Manter informações atualizadas dos fornecedores.
+•Manter informações atualizadas dos fornecedores
